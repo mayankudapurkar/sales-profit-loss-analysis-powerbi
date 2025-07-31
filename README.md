@@ -13,8 +13,7 @@ This project provides a Power BI dashboard for analyzing sales transactions with
 - ✅ Profit vs Loss breakdown by **region**, **product**, and **category**
 - 📅 Trend analysis over time
 - 📦 Product-level performance
-- 🧭 Region-wise comparison
-- 📈 KPIs: Total Profit, Total Loss, Profit % etc.
+- 📈 KPIs: Total Profit, Total Loss.
 
 ---
 
